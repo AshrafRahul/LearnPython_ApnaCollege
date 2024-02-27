@@ -10,3 +10,8 @@ a3,b3 = 5,-2
 c3 = a3%b3
 print(c3)
 
+#this is single line comment
+"""This is 
+   multiple line
+   comment"""
+
